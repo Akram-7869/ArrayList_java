@@ -212,9 +212,9 @@ public class arraylist {
     height.add(8);
     height.add(90);
     height.add(10);
-    // height.add(8);
-    // height.add(3);
-    // height.add(7);
+    height.add(8);
+    height.add(3);
+    height.add(7);
 
     //System.out.println(cw(height));
     //System.out.println(pairsum(height, 16));
