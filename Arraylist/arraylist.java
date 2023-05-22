@@ -142,7 +142,7 @@ public class arraylist {
    
     //size of al is size()
 
-    //reverse of al operaton
+   
    
     
     // for(int i=ak.size()-1;i>=0;i--){
